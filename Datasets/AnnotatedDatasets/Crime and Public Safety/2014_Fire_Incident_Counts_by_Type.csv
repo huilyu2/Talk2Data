@@ -1,0 +1,20 @@
+"Name" -> "2014_Fire_Incident_Counts_by_Type"
+"ResourceType" -> "DataResource"
+"Title" -> "Fire Incidents in Urbana"
+"Description" -> "A table of counts of fire incidents by type in Urbana IL in 2014"
+"Publisher" -> "City of Urbana"
+"Source" -> "https://data.urbanaillinois.us/Fire-and-Rescue/2014-Fire-Incident-Counts-by-Type/vbs8-h9i3"
+"Date" -> "2014"
+"Keywords" -> "Text, Fire, Incident, Count, Urbana"
+"Categories" -> "Crime and Public Safety"
+"ContentLocation" -> "Urbana, Illinois"
+Alarm Date,Incident Type Description,Count
+01/01/2014 12:00:00 AM,Good Intent Call,486
+01/01/2014 12:00:00 AM,Service Call,678
+01/01/2014 12:00:00 AM,Fire,207
+01/01/2014 12:00:00 AM,Severe Weather or Natural Disaster,5
+01/01/2014 12:00:00 AM,Hazardous Condition (no fire),257
+01/01/2014 12:00:00 AM,"Overpressure Rupture, Explosion, Overheat (no fire)",13
+01/01/2014 12:00:00 AM,False Alarm or False Call,1065
+01/01/2014 12:00:00 AM,Special Incident Type,2
+01/01/2014 12:00:00 AM,Rescue or Emergency Medical Services Incident,2706

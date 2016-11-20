@@ -1,0 +1,27 @@
+"Name" -> "Champaign_Population_1860-2010"
+"ResourceType" -> "DataResource"
+"Title" -> "Champaign Population"
+"Description" -> "Champaign population and percent growth from 1860 to 2010"
+"Publisher" -> "State of Illinois Open Data"
+"Source" -> "https://data.illinois.gov/Municipality/Champaign-Population-1860-2010/j5j5-zjn8"
+"Date" -> "1860-2010"
+"Keywords" -> "Text, Population, Champaign"
+"Categories" -> "Demographics"
+"ContentLocation" -> "Champaign, Illinois"
+Year,Population,Percent Growth
+1860,1727,
+1870,4625,167.8%
+1880,5103,10.3%
+1890,5839,14.4%
+1900,9098,55.8%
+1910,12421,36.5%
+1920,15873,27.8%
+1930,20348,28.2%
+1940,23302,14.5%
+1950,39563,69.8%
+1960,49583,25.3%
+1970,56837,14.6%
+1980,58133,2.3%
+1990,63502,9.2%
+2000,67518,6.3%
+2010,81055,20%

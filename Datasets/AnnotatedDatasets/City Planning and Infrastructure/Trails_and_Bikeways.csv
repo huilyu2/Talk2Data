@@ -1,0 +1,518 @@
+﻿"Name" -> "Trails_and_Bikeways"
+"ResourceType" -> "DataResource"
+"Title" -> "Trails and Bikeways Champaign-Urbana"
+"Description" -> "Records of trails and bikeways about path type, name, distance, width, shape length and construction year in Champaign-Urbana IL"
+"Publisher" -> "The Champaign Urbana Urbanized Area Transportation Study (CUUATS) Open Data"
+"Source" -> "http://data.cuuats.org/datasets/abeda57b97c84c4f88e7423585b3a087_0?uiTab=table"
+"Date" -> "NA"
+"Keywords" -> "Text, Trail, Bikeway, Champaign, Urbana"
+"Categories" -> "City Planning and Infrastructure"
+"ContentLocation" -> "Champaign-Urbana, Illinois"
+OBJECTID,Path_Type,Dx_Miles,Name,Width_ft,Year_Const,City,Type,SHAPESTLength
+1,1,1.00759,Lincoln Avenue Trail (Florida-Windsor),0,2003,Urbana,1,5320.077347
+2,1,1.005981,Windsor Road S SP (Race-Philo),0,2003,Urbana,1,5311.579178
+3,1,0.871845,Windsor Road N SP (Myra Ridge-Stone Creek),0,2003,Urbana,1,4603.343265
+4,3,0.011526,Ethel S. Robeson Trail,0,,Champaign,3,60.859755
+5,3,0.090604,Ethel S. Robeson Trail,0,,Champaign,3,478.387827
+6,3,0.434932,Greenbelt Bikeway (Bradley-Heritage Park),0,,Champaign,3,2296.438439
+7,3,0.233575,Greenbelt Bikeway (Heritage Park),0,,Champaign,3,1233.275039
+8,3,0.026472,Greenbelt Bikeway Spur to Kaufman Lake,0,,Champaign,3,139.770156
+9,3,0.396546,Robeson Meadows Trail,0,,Champaign,3,2093.76128
+10,3,0.198388,Robeson Meadows Trail,0,,Champaign,3,1047.490825
+11,3,0.367029,Robeson Meadows Trail,0,,Champaign,3,1937.914736
+12,3,0.089302,Robeson Crossing Trail,0,,Champaign,3,471.512863
+13,3,0.077562,Robeson Meadows Trail,0,,Champaign,3,409.528315
+14,3,0.088699,Robeson Meadows Trail,0,,Champaign,3,468.330577
+15,3,0.059209,Burwash Park Path,0,,Savoy,3,312.623382
+16,3,0.086881,Burwash Park Path,0,,Savoy,3,458.732041
+17,3,0.071846,Burwash Park Path,4,,Savoy,3,379.34505
+18,3,0.414718,Boulware Trail (Devonshire-Fox),0,,Champaign,3,2189.711597
+19,3,0.077037,Boulware Trail around Mattis Lake,6,,Champaign,3,406.754753
+20,3,0.46144,Boulware Trail (Fox-Devonshire),0,,Champaign,3,2436.403041
+21,2,1.030904,Windsor Road N DSUP (Prospect-W of Mattis),0,,Champaign,2,5443.175341
+22,2,1.030092,Windsor Road S DSUP (Prospect-W of Mattis),0,,Champaign,2,5438.886092
+23,1,0.053996,Harold E. Ruppel Memorial Bike Trail - SUP,0,,Champaign,1,285.101354
+24,2,0.554044,Windsor Road N DSUP (Neil-Prospect),0,,Champaign,2,2925.353978
+25,2,0.559732,Windsor Road S DSUP (Neil-Prospect),0,,Champaign,2,2955.382915
+26,2,0.078442,Windsor Road N DSUP (W of Mattis-Bike Lane),0,,Champaign,2,414.175075
+27,2,0.07862,Windsor Road S DSUP (W of Mattis-Bike Lane),0,,Champaign,2,415.113021
+28,3,0.096137,Robeson Meadows Trail,0,,Champaign,3,507.602573
+29,3,0.031484,Robeson Meadows Trail Spur to Rebecca Dr,0,,Champaign,3,166.236421
+30,3,0.103301,Meadowbrook Park Path,0,2003,Urbana,3,545.429872
+31,3,0.038626,Meadowbrook Park Path,0,2003,Urbana,3,203.944272
+32,3,0.5121,Meadowbrook Park Sculpture Garden Path,0,2003,Urbana,3,2703.885644
+33,3,0.255667,Meadowbrook Park Hickman Wildflower Walk,0,2003,Urbana,3,1349.922061
+34,1,0.04681,Prospect Avenue E SP (Ruppel Trail-Graham),0,,Savoy,1,247.1558
+35,3,0.431182,Boneyard Creek Trail (First-Sixth),0,,Champaign,3,2276.642504
+36,3,0.047333,Boneyard Creek Trail Spur to Scott Park,0,,Champaign,3,249.918078
+37,1,0.817485,Kirby Avenue S SP (Wright-Neil),0,,Champaign,1,4316.322731
+38,3,0.522744,O'Malley's Alley Trail,0,,Champaign,3,2760.087984
+39,3,0.253424,Martin Luther King Jr. Trail,0,,Champaign,3,1338.079556
+40,3,0.079914,Martin Luther King Jr. Trail,0,,Champaign,3,421.947969
+41,1,0.353247,Amber Lane S SP,0,2003,Urbana,1,1865.145215
+42,1,0.52782,Florida Avenue S SP (W of Kinch-E of Abercorn),0,2003,Urbana,1,2786.88786
+43,5,0.294635,Armory Bike Path,0,,Champaign,5,1555.674775
+44,5,0.106257,Euclid Street Bike Path,0,,Champaign,5,561.036306
+45,5,0.101773,Virginia Drive Contraflow Bike Path,0,2003,Urbana,5,537.362985
+46,5,0.23232,Dorner Bike Path,0,2003,Urbana,5,1226.649425
+47,5,0.517043,Mathews Avenue Bike Path,0,2003,Urbana,5,2729.989271
+48,5,0.320447,Green Street Bike Path,0,2003,Urbana,5,1691.960666
+49,5,0.388765,Armory Bike Path,0,2003,Urbana,5,2052.679116
+50,5,0.002876,Iowa Bike Path Spur B,0,2003,Urbana,5,15.185137
+51,5,0.141759,Florida Avenue Bike Path,0,2003,Urbana,5,748.487661
+52,1,0.28017,First Street Trail (Gerty-Windsor),0,,Champaign,1,1479.299258
+53,1,1.166064,First Street Trail (Gregory-Gerty),0,,Champaign,1,6156.820042
+54,3,0.095714,Burwash Park NW path,5,,Savoy,3,505.369453
+55,3,3.36298,Lake of the Woods Path,0,,Mahomet,3,17756.536349
+56,1,1.004941,IL 47 Path,0,,Mahomet,1,5306.090363
+57,1,0.603972,US 150 N SP (East-Oak Creek),0,,Mahomet,1,3188.970478
+58,1,0.559949,US 150/Sandy Ridge SUP (Oak Creek-E of Heather),0,,Mahomet,1,2956.52847
+59,7,0.295376,Rantoul Township High School Track,0,,Rantoul,7,1559.58335
+60,1,0.051964,McCullough Street E SP (Park-University),0,2003,Urbana,1,274.369757
+61,5,0.078004,Illinois Bike Path,0,2003,Urbana,5,411.861727
+62,5,0.034229,Iowa Bike Path Spur A,0,2003,Urbana,5,180.729043
+63,5,0.304259,Lorado Taft Bike Path,0,,Champaign,5,1606.489939
+64,5,0.273963,Mathews Bike Path,0,2003,Urbana,5,1446.52525
+65,5,0.173722,Sixth Street Bike Path,0,,Champaign,5,917.251846
+66,5,0.168357,Wright Street Bike Path,0,2003,Urbana,5,888.924398
+67,1,0.0569,Windsor Road N SP (W of Race-Race),0,2003,Urbana,1,300.433887
+68,3,0.233318,Crystal Lake Pool Path,0,2003,Urbana,3,1231.921456
+69,3,0.570867,Crystal Lake Park Path,0,2003,Urbana,3,3014.176896
+70,3,0.133279,Church Street N SP,0,2003,Urbana,3,703.714488
+71,1,2.581545,Stone Creek Boulevard Path,0,2004,Urbana,1,13630.556319
+72,3,0.445228,Greenbelt Bikeway (Parkland Way-Bradley),0,,Champaign,3,2350.802375
+73,3,0.122621,Greenbelt Bikeway Spur to Olympic Tribute,0,,Champaign,3,647.438384
+74,3,0.760128,Robeson Meadows West Trail,0,,Champaign,3,4013.476489
+75,3,0.605776,Robeson Meadows West Trail,0,,Champaign,3,3198.498139
+76,3,0.125645,Robeson Meadows West Trail,0,,Champaign,3,663.40753
+77,3,0.13285,Robeson Meadows West Trail,0,,Champaign,3,701.446809
+78,3,0.004277,Robeson Meadows West Trail,0,,Champaign,3,22.581301
+79,3,0.124018,Robeson Meadows West Trail,0,,Champaign,3,654.812697
+80,3,0.008307,Robeson Meadows West Trail,0,,Champaign,3,43.859881
+81,3,0.071692,Robeson Meadows West Trail,0,,Champaign,3,378.535148
+82,3,0.00378,Robeson Meadows West Trail,0,,Champaign,3,19.957771
+83,3,0.021828,Robeson Meadows West Trail,0,,Champaign,3,115.252876
+84,3,0.01095,Robeson Meadows West Trail,0,,Champaign,3,57.818489
+85,3,0.158459,Robeson Meadows West Trail,0,,Champaign,3,836.663484
+86,3,0.193257,Robeson Meadows West Park Trail,0,,Champaign,3,1020.397236
+87,3,0.03308,Robeson Meadows West Trail,0,,Champaign,3,174.66293
+88,3,0.08288,Robeson Meadows West Trail,0,,Champaign,3,437.605598
+89,3,0.661796,South Ridge Park Trail,0,2003,Urbana,3,3494.278352
+90,3,0.359935,Marc Trail Path,0,2006,Urbana,3,1900.456694
+91,3,0.359114,The Pines Pond Path,0,2006,Urbana,3,1896.122772
+92,1,0.4895,Lierman Avenue E SP,0,2006,Urbana,1,2584.559585
+93,5,0.161746,Oval Allee Bike Path,0,2006,Urbana,5,854.021051
+94,1,0.29663,Colorado Avenue N SP,0,2006,Urbana,1,1566.208929
+95,1,0.231216,North Champaign Trail D,0,,Champaign,1,1220.820496
+96,1,0.042794,Smith Road W SP,0,2006,Urbana,1,225.949906
+97,1,0.191536,Meadowbrook Park Prairie Path on Race Street,0,2003,Urbana,1,1011.312154
+98,3,0.98237,Meadowbrook Park Prairie Path,0,2003,Urbana,3,5186.911183
+99,6,0.2456,Illinois Street Bike Lanes (Lincoln-Goodwin),0,2007,Urbana,6,1296.769509
+100,6,0.378976,First Street Bike Lanes (S of Green-Gregory),0,,Champaign,6,2000.993195
+101,6,0.370589,Philo Road Bike Lanes (PA-Harding),0,2008,Urbana,6,1956.70819
+102,5,0.168743,Quad Bike Path,0,2006,Urbana,5,890.963173
+103,5,0.027312,Davenport Bike Path,0,2003,Urbana,5,144.209069
+104,5,0.004143,Davenport Bike Path Spur,0,2003,Urbana,5,21.873013
+105,5,0.060238,Buell Bike Path,0,2007,Urbana,5,318.058226
+106,5,0.073336,Gregory Drive Bike Path,0,,Champaign,5,387.211558
+107,5,0.20427,Fourth Street Bike Path,0,,Champaign,5,1078.544281
+108,1,0.233653,Prospect Avenue E SP (Ashland Park N),0,,Champaign,1,1233.688852
+109,1,0.364102,Olympian Drive S SP,0,,Champaign,1,1922.45848
+110,1,0.205224,Leggett Lane E SP,0,,Champaign,1,1083.582
+111,1,0.043685,Ashland Park Trail,0,,Champaign,1,230.658179
+112,1,0.071371,North Champaign Trail A,0,,Champaign,1,376.837363
+113,1,0.025226,Doisy Drive N SP,0,,Champaign,1,133.195784
+114,3,0.083741,Ashland Park Trail,0,,Champaign,3,442.153406
+115,3,0.247596,Ashland Park Trail,0,,Champaign,3,1307.307395
+116,3,0.490877,North Champaign Trail B,0,,Champaign,3,2591.832855
+117,1,0.040557,North Champaign Trail C,0,,Champaign,1,214.142054
+118,1,0.192061,Prospect Avenue E SP (Ashland Park S),0,,Champaign,1,1014.08347
+119,3,0.022279,Hessel Park Path Spur to Kirby Ave,0,,Champaign,3,117.632317
+120,3,0.624185,Hessel Park Path,0,,Champaign,3,3295.697263
+121,3,0.005992,Hessel Park Path Spur to Grandview Dr W,0,,Champaign,3,31.635706
+122,3,0.009117,Hessel Park Path Spur to Birch St,0,,Champaign,3,48.138239
+123,3,0.004677,Hessel Park Path Spur to Hamilton Dr,0,,Champaign,3,24.696625
+124,3,0.00555,Hessel Park Path Spur to Cedar St,0,,Champaign,3,29.302844
+125,3,0.019384,Hessel Park Path Spur to Valley Rd,0,,Champaign,3,102.349459
+126,3,0.003649,Robeson Meadows Trail Spur,0,,Champaign,3,19.267273
+127,3,0.004829,Robeson Meadows Trail Spur,0,,Champaign,3,25.499753
+128,1,0.010599,Duncan Road Path to Windsor Rd,0,,Champaign,1,55.960866
+129,3,0.098998,Robeson Meadows Trail,0,,Champaign,3,522.710748
+130,3,0.007786,Roby Trail,0,,Champaign,3,41.108816
+131,3,0.008461,Roby Trail,0,,Champaign,3,44.676156
+132,3,0.025352,Duncan Road Path bridge over Phinney Branch,0,,Champaign,3,133.857298
+133,3,0.008348,Duncan Road Path to Stoneybrook Dr,0,,Champaign,3,44.07941
+134,3,0.004121,Duncan Road Path to Stoneybrook Dr,0,,Champaign,3,21.759982
+135,3,0.008363,Duncan Road Path,0,,Champaign,3,44.154736
+136,3,0.073933,Robeson Meadows Trail,0,,Champaign,3,390.367622
+137,3,0.005449,Robeson Meadows Trail Spur,0,,Champaign,3,28.772616
+138,3,0.085852,Boulware Trail Spur to Colony Square,8,,Champaign,3,453.299493
+139,3,0.24167,Boulware Trail around Mattis Lake,8,,Champaign,3,1276.01529
+140,3,0.009884,Boulware Trail around Mattis Lake,8,,Champaign,3,52.18905
+141,3,0.007462,Boulware Trail Spur to Colony Square,8,,Champaign,3,39.399883
+142,2,0.585882,Curtis Road S DSUP (Duncan-Wynstone),0,2008,Champaign,2,3093.456501
+143,2,0.050828,Duncan Road W DSUP,0,,Champaign,2,268.37275
+144,2,0.119861,Duncan Road E DSUP,0,,Champaign,2,632.865759
+145,2,0.584961,Curtis Road N DSUP (Duncan-Wynstone),0,2008,Champaign,2,3088.592865
+146,3,0.222374,Greenbelt Bikeway Spur to Country Fair Dr,0,,Champaign,3,1174.135708
+147,1,0.212178,Colorado Avenue S SP,0,2008,Urbana,1,1120.300752
+148,1,0.131777,Orchard Street E SP,0,2008,Urbana,1,695.783006
+149,1,0.073409,McCullough Street E SP (University-RR),0,2008,Urbana,1,387.598737
+150,1,0.06275,Wright Street Path,0,2008,Urbana,1,331.318407
+151,3,0.31272,Pipeline Diagonal Trail 1,8,2008,Champaign,3,1651.161247
+152,3,0.140124,The Pines Path,0,2008,Urbana,3,739.853041
+153,1,0.075553,Windsor Road S SP (W of Race-Race),0,2003,Urbana,1,398.921612
+154,1,0.191199,Race Street E SP,0,2003,Urbana,1,1009.532379
+155,1,0.210179,Lincoln Ave W SP (Iowa St Bike Path-Michigan),10,2006,Urbana,1,1109.744224
+156,1,0.004892,Hazelwood Drive N SP,0,,Champaign,1,25.828754
+157,3,0.227132,South Research Park Trail,0,,Champaign,3,1199.256714
+158,3,0.009558,South Research Park Trail,0,,Champaign,3,50.466908
+159,3,0.026368,Robeson Meadows West Trail,0,,Champaign,3,139.224377
+160,3,0.018999,Roby Trail,0,,Champaign,3,100.317386
+161,3,0.009572,Burwash Park Path,0,,Savoy,3,50.541806
+162,3,0.131088,Boulware Trail Spur to Moore Park,0,,Champaign,3,692.142355
+163,1,0.231848,Myra Ridge Drive E SP,0,2003,Urbana,1,1224.160049
+164,1,0.137562,US 150 N SP (Commercial-Churchill),0,,Mahomet,1,726.328062
+165,1,0.098942,US 150 N SP (Churchill-E edge of Hunters Ridge),0,,Mahomet,1,522.412989
+166,1,0.238795,US 150 N SP (W of Purnell-Prairieview),0,,Mahomet,1,1260.837767
+167,3,0.087681,Chanute Air Museum Path,0,,Rantoul,3,462.954368
+168,1,0.238923,John Baermann Parade Ground Path,0,,Rantoul,1,1261.515276
+169,1,0.198914,Century Boulevard E SP,0,,Rantoul,1,1050.266699
+170,3,0.076463,John Baermann Parade Ground Path,0,,Rantoul,3,403.72568
+171,1,0.084997,Veterans Parkway S SP (Century-Eagle),0,,Rantoul,1,448.784023
+172,1,0.067933,Maplewood Detention Pond Path Trailhead,0,,Rantoul,1,358.684901
+173,1,0.97315,Maplewood Detention Pond Path,0,,Rantoul,1,5138.234252
+174,1,0.045091,Maplewood Detention Pond Path Trailhead,0,,Rantoul,1,238.080125
+175,1,0.002666,Maplewood Detention Pond Path Trailhead,0,,Rantoul,1,14.078094
+176,1,0.017195,Maplewood Detention Pond Path Trailhead,0,,Rantoul,1,90.787265
+177,1,0.180044,Boulder Drive W SP,0,2006,Urbana,1,950.631808
+178,3,0.244597,Marc Trail Path Loop North,0,2006,Urbana,3,1291.473374
+180,1,0.286808,Windsor Road S SP (Philo-Myra Ridge),0,2003,Urbana,1,1514.346194
+181,3,0.037931,The Pines Trailhead,0,2008,Urbana,3,200.278037
+182,1,0.155667,Windsor Road N SP (Philo-Boulder),0,2007,Urbana,1,821.922671
+183,1,1.309591,Philo Road E SP,0,2003,Urbana,1,6914.633823
+184,1,0.049933,Hazelwood Drive N SP,0,,Champaign,1,263.646155
+185,3,0.044238,Boulware Trail Spur to Richards Ln,0,,Champaign,3,233.574851
+186,3,0.067361,Boulware Trail around Mattis Lake,8,,Champaign,3,355.66599
+187,4,0.334894,Harold E. Ruppel Memorial Bike Trail,0,,Champaign,4,1768.240264
+188,5,0.14302,Pennsylvania Avenue Bike Path,0,2003,Urbana,5,755.146674
+189,5,0.357529,Peabody Bike Path,0,,Champaign,5,1887.754896
+190,7,0.033812,Wabash Park Walking Path,0,,Rantoul,7,178.525917
+191,7,0.03402,Wabash Park Walking Path,0,,Rantoul,7,179.623653
+192,3,0.008013,Douglass Park Path to playground,0,,Champaign,3,42.306745
+194,3,0.029245,Douglass Park Path to Douglass Center,0,,Champaign,3,154.415152
+195,3,0.146654,Victory Park Path,0,2009,Urbana,3,774.334532
+196,3,0.014094,Victory Park Path,0,2009,Urbana,3,74.414781
+197,3,0.023398,Victory Park Path,0,2009,Urbana,3,123.543453
+198,1,0.030689,High School of St. Thomas More Path,0,,Champaign,1,162.035686
+199,1,0.149857,Star Avenue S SP,0,,Champaign,1,791.245165
+200,1,1.429633,Clearview Path,0,,Champaign,1,7548.46107
+201,3,0.005528,Clearview Detention Pond Path,0,,Champaign,3,29.18989
+202,3,0.074843,Martin Luther King Jr. Trail,0,,Champaign,3,395.172704
+203,1,0.062268,Fox Drive W SP (Boulware Trail),0,,Champaign,1,328.776206
+204,3,0.032714,Boulware Trail (Valley-Fox),0,,Champaign,3,172.732464
+205,1,0.003037,Maplewood Detention Pond Path Trailhead,0,,Rantoul,1,16.036961
+206,3,0.028191,Robeson Meadows West Trail,0,,Champaign,3,148.849986
+207,3,0.52944,Robert P Simon Trail,0,,Champaign,3,2795.44388
+208,1,0.029119,Chanute Street E SP,0,,Rantoul,1,153.74857
+209,3,0.058981,Maplewood Path,0,,Rantoul,3,311.419138
+210,1,0.795153,Maplewood Dr W SP,0,,Rantoul,1,4198.405683
+211,1,0.146756,Tin Cup Road S SP,0,,Mahomet,1,774.870418
+212,3,0.19567,Riverbluff Path,0,,Mahomet,3,1033.135524
+213,3,0.118317,Crestview Park Path,0,2003,Urbana,3,624.714392
+214,3,0.254363,Crystal Lake Park Path,0,2003,Urbana,3,1343.034332
+215,3,0.004543,Crystal Lake Park Path,0,2003,Urbana,3,23.987544
+216,3,0.00784,Crystal Lake Park Path,0,2003,Urbana,3,41.393108
+218,1,0.501515,South Recreational Facilities Path,0,,Rantoul,1,2647.99711
+219,3,0.034088,South Recreational Facilities Path,0,,Rantoul,3,179.985125
+220,3,0.016052,South Recreational Facilities Path,0,,Rantoul,3,84.754772
+221,3,0.240891,South Recreational Facilities Path,0,,Rantoul,3,1271.903947
+222,3,0.039932,South Recreational Facilities Path,0,,Rantoul,3,210.843267
+223,3,0.018551,South Recreational Facilities Path,0,,Rantoul,3,97.947881
+224,1,0.888721,South Recreational Facilities Path,0,,Rantoul,1,4692.44471
+225,1,0.077995,South Recreational Facilities Path,0,,Rantoul,1,411.814385
+226,1,0.439041,Wabash Park Shared-Use Path,0,,Rantoul,1,2318.13587
+227,6,0.591002,Goodwin Avenue Bike Lanes,0,2009,Urbana,6,3120.492566
+228,3,0.050404,Robeson Meadows West Trail,0,,Champaign,3,266.135361
+229,3,0.111955,Wal-Mart Path,0,2006,Urbana,3,591.125028
+230,3,0.141328,Wal-Mart Path,0,2006,Urbana,3,746.213245
+231,3,0.195948,Robeson Meadows West Trail,0,,Champaign,3,1034.607687
+232,3,0.577167,Clearview Detention Pond Path,0,,Champaign,3,3047.444254
+233,3,0.197084,Ashland Park Trail,8,,Champaign,3,1040.605165
+234,1,0.214093,Toalson Lane W SP,0,,Champaign,1,1130.412774
+235,3,1.263077,Turnberry Ridge Trail,4,,Champaign,3,6669.047659
+236,3,1.211741,Roby Trail,0,,Champaign,3,6397.990102
+237,1,0.14079,Duncan Road Trail (Meadows Trail-Windsor),0,,Champaign,1,743.372932
+238,1,0.462963,Windsor Road S SP (First-Neil),0,,Champaign,1,2444.445094
+239,3,0.157632,Douglass Park Path,0,,Champaign,3,832.298875
+240,1,1.0267,Goodwin Avenue Path,0,2004,Urbana,1,5420.973463
+241,5,0.189022,Springfield Avenue Bike Path,0,2003,Urbana,5,998.035088
+242,5,0.327273,Wright Street Contraflow Bike Path,0,2003,Urbana,5,1727.999503
+243,5,0.120488,Gregory Bike Path,0,2003,Urbana,5,636.178473
+244,5,0.112605,Iowa Bike Path,0,2003,Urbana,5,594.556808
+245,6,0.122124,Gregory Drive Bike Lanes (E of Fourth-W of Sixth),0,,Champaign,6,644.816705
+246,5,0.099865,Dorner Bike Path,0,2003,Urbana,5,527.285068
+247,5,0.214382,Peabody Bike Path,0,2003,Urbana,5,1131.935553
+248,5,0.066809,Lorado Taft Bike Path Spur,0,,Champaign,5,352.75372
+249,1,0.994892,Race Street W SP,0,2003,Urbana,1,5253.031483
+250,7,0.224689,Wabash Park Walking Path,0,,Rantoul,7,1186.35942
+251,7,0.091926,Wabash Park Walking Path,0,,Rantoul,7,485.370941
+252,1,0.719568,Wabash Park-Youth Center Path,0,,Rantoul,1,3799.293125
+253,6,0.135169,Stone Creek Boulevard Bike Lanes,0,2006,Urbana,6,713.694748
+254,6,0.921454,Windsor Road Bike Lanes (Wright-W of Race),0,2003,Urbana,6,4865.276568
+255,6,0.545334,Windsor Road Bike Lanes (First-Wright),0,,Champaign,6,2879.361581
+256,6,0.882345,Windsor Road Bike Lanes (W of Mattis-Duncan),0,,Champaign,6,4658.781771
+257,6,0.389466,Gregory Drive Bike Lanes (W city limits-Dorner),0,2007,Urbana,6,2056.378986
+258,5,0.158612,Lorado Taft Bike Path,0,2003,Urbana,5,837.469183
+259,1,0.490508,Florida Avenue S SP (Lincoln-Wright),0,2003,Urbana,1,2589.883019
+260,6,0.036501,Fourth Street Bike Lanes (N of University),0,,Champaign,6,192.719615
+261,1,0.154847,University Avenue S SP,0,2003,Urbana,1,817.590071
+262,1,0.271073,First Street W SP (Gerty-Windsor),0,,Champaign,1,1431.267866
+263,2,0.14181,Curtis Road S DSUP (Prospect-Wesley),0,,Savoy,2,748.755511
+264,8,0.692645,Philo Road Sharrows (Harding-Windsor),0,2010,Urbana,8,3657.166364
+265,1,0.055769,Franklin Street S SP (Lombard-East),0,,Mahomet,1,294.460126
+266,8,0.052265,Randolph Street Sharrows (Bradley-Beardsley),0,,Champaign,8,275.95816
+267,6,1.666926,Randolph Street Bike Lanes (Beardsley-Hessel),0,,Champaign,6,8801.367478
+268,6,0.4831,State Street Bike Lanes (Bradley-Washington),0,,Champaign,6,2550.765828
+269,8,0.236705,State Street Sharrows (Washington-N of University),0,,Champaign,8,1249.803676
+270,6,0.931944,State Street Bike Lanes (N of University-Avondale),0,,Champaign,6,4920.666662
+271,8,0.067389,State Street Sharrows (Avondale-Hessel),0,,Champaign,8,355.813146
+272,6,0.063574,Logan Street Bike Lanes (Neil-Market),0,,Champaign,6,335.671301
+273,8,0.124675,Logan Street Sharrows (Market-Water),0,,Champaign,8,658.28291
+274,6,0.074908,Logan Street Bike Lanes (Water-First),0,,Champaign,6,395.516636
+275,6,0.747474,Curtis Road Bike Lanes (W city limits-Prospect),0,,Savoy,6,3946.662446
+276,6,0.680469,Curtis Road Bike Lanes (Wynstone-E city limits),0,,Champaign,6,3592.875967
+277,6,0.18963,Main Street Bike Lanes (Grove-Vine),0,2010,Urbana,6,1001.247516
+278,8,0.057371,Washington Street Sharrows (Philo-Cottage Grove) ,0,2010,Urbana,8,302.918052
+279,6,0.419108,Washington Street Bike Lanes (C. Grove-Urbana),0,2010,Urbana,6,2212.888144
+280,8,0.073181,Washington Street Sharrows (Urbana-Vine),0,2010,Urbana,8,386.393826
+281,6,0.132153,Race Street Bike Lanes (Pennsylvania-N of Florida),0,2010,Urbana,6,697.768541
+282,8,0.082333,Race Street Sharrows (N of Florida-S of Florida),0,2010,Urbana,8,434.719301
+283,6,0.955842,Race Street Bike Lanes (S of Florida-Windsor),0,2010,Urbana,6,5046.845376
+284,8,0.115657,John Street Sharrows (Randolph-W of State),0,,Champaign,8,610.67021
+285,1,0.114415,Windsor Road N SP (Boulder-Myra Ridge),0,2010,Urbana,1,604.110584
+286,1,0.322304,Windsor Road N SP (Stone Creek-High Cross) ,0,2010,Urbana,1,1701.763578
+287,6,0.528146,Philo Road Bike Lanes (WA-PA),0,2011,Urbana,6,2788.60703
+288,6,0.087584,Clark Street Bike Lanes (Randolph-Neil),0,,Champaign,6,462.444277
+289,6,0.087656,White Street Bike Lanes (First-Second),0,,Champaign,6,462.821217
+290,6,0.153762,First Street Bike Lanes (Clark-N of Marshall),0,,Champaign,6,811.861067
+291,8,0.074974,First Street Sharrows (N of Marshall-S of Sfld),0,,Champaign,8,395.860716
+292,6,0.079148,First Street Bike Lanes (S of Sfld-N of Green),0,,Champaign,6,417.899058
+293,8,0.089745,First Street Sharrows (N of Green-S of Green),0,,Champaign,8,473.854903
+294,3,0.055334,Lower Boneyard Trail A,0,,Champaign,3,292.104864
+295,3,0.002848,Lower Boneyard Trail B,0,,Champaign,3,15.039302
+296,1,0.106607,Second Street W SP (Clark-White),0,,Champaign,3,562.878453
+297,3,0.004,Lower Boneyard Trail C,0,,Champaign,3,21.117464
+298,1,0.042666,White Street N SP (Second-E of First),0,,Champaign,1,225.278531
+299,3,0.060128,Lower Boneyard Trail D,0,,Champaign,3,317.449273
+300,3,0.18381,Lower Boneyard Trail E,0,,Champaign,3,970.388089
+301,3,0.119435,Lower Boneyard Trail F,0,,Champaign,3,630.592413
+302,3,0.009019,Lower Boneyard Trail G,0,,Champaign,3,47.619062
+303,1,0.045316,Springfield Avenue N SP (Second-E of First),0,,Champaign,1,239.244953
+304,1,0.046836,White Street S SP (Second-E of First),0,,Champaign,1,247.291729
+305,3,0.015957,Lower Boneyard Trail H,0,,Champaign,3,84.232088
+306,3,0.139265,Lower Boneyard Trail I,0,,Champaign,3,735.238574
+307,3,0.009911,Lower Boneyard Trail J,0,,Champaign,3,52.305309
+308,3,0.011993,Lower Boneyard Trail K,0,,Champaign,3,63.294894
+309,1,0.113923,Second Street W SP (White-Springfield),0,,Champaign,1,601.48455
+310,1,0.059682,Clark Street S SP (Second-E of First),0,,Champaign,1,315.102316
+311,1,0.02891,University Avenue S SP (Second-E of Second),0,,Champaign,1,152.606244
+312,3,0.118056,Fred B. Lamb Trail,0,,Champaign,3,623.264018
+313,3,0.031979,Scott Park Path B,0,,Champaign,3,168.849237
+314,3,0.030831,Scott Park Path C,0,,Champaign,3,162.765514
+315,3,0.009979,Scott Park Path D,0,,Champaign,3,52.666601
+316,3,0.049753,Scott Park Path E,0,,Champaign,3,262.67132
+317,3,0.012646,Scott Park Path F,0,,Champaign,3,66.76897
+318,3,0.023723,Scott Park Path G,0,,Champaign,3,125.241615
+319,6,0.390802,Fourth Street Bike Lanes (S of Green-Gregory),0,,Champaign,6,2063.431992
+320,3,0.254982,Morrissey Park Path A,0,,Champaign,3,1346.220736
+321,3,0.425042,Morrissey Park Path B,0,,Champaign,3,2244.046187
+322,3,0.051849,Morrissey Park Path C,0,,Champaign,3,273.737543
+323,3,0.008145,Morrissey Park Path D,0,,Champaign,3,43.000756
+324,3,0.008656,Morrissey Park Path E,0,,Champaign,3,45.696282
+325,3,0.010502,Morrissey Park Path F,0,,Champaign,3,55.447084
+326,3,0.01192,Morrissey Park Path G,0,,Champaign,3,62.929508
+327,3,0.019783,Morrissey Park Path H,0,,Champaign,3,104.441214
+328,6,0.333794,Walnut Street Bike Lanes (Logan-WA),0,,Champaign,6,1762.430375
+329,1,0.110176,US 150 N SP (E of Heather-Commercial),0,,Mahomet,1,581.728514
+330,1,0.035028,US 150 N SP (across Churchill),0,,Mahomet,1,184.946591
+331,3,0.050345,US 150 SUP over Sangamon River,0,,Mahomet,3,265.822535
+332,2,0.272979,Curtis Road N DSUP (W of Prospect-Wesley),0,,Savoy,2,1441.311635
+333,4,1.371963,Harold E. Ruppel Memorial Bike Trail,0,,Savoy,4,7243.962428
+334,8,0.680143,John Street Sharrows (W of State-Willis),0,,Champaign,8,3591.154817
+335,1,0.085697,Wascher Dr S SP,8,2012,Urbana,1,452.462187
+336,3,0.024967,King Park Path A,0,2012,Urbana,3,131.826125
+337,3,0.084331,King Park Path B,8,2012,Urbana,3,445.251709
+338,3,0.160814,King Park Path C,8,2012,Urbana,3,849.064276
+339,3,0.079754,King Park Path Connector to Goodwin Avenue,8,2012,Urbana,3,421.093306
+340,3,0.117711,Toalson Park Path,8,,Champaign,3,621.502678
+341,1,0.03193,Prairie Fields Trail 1,0,,Savoy,1,168.592078
+342,3,0.371752,Prairie Fields Trail 1,0,,Savoy,3,1962.848763
+343,5,0.01483,Ohio Bike Path Spur,0,2003,Urbana,5,78.300302
+344,5,0.141107,Ohio Bike Path,0,2003,Urbana,5,745.042972
+345,5,0.063146,Virginia Drive Bike Path,0,2003,Urbana,5,333.408941
+346,3,0.682574,Porter Family Park Path A,0,,Champaign,3,3603.8341
+348,3,0.011469,Porter Family Park Path C,0,,Champaign,3,60.550224
+349,3,0.014398,Porter Family Park Path D,0,,Champaign,3,76.017575
+350,3,0.025701,Porter Family Park Path Spur to Stonebridge Drive,0,,Champaign,3,135.70025
+352,3,0.02446,Porter Family Park Path Spur to Max Run Drive,0,,Champaign,3,129.15063
+353,3,0.018804,Porter Family Park Path F,0,,Champaign,3,99.276297
+354,3,0.020367,Porter Family Park Path G,0,,Champaign,3,107.539841
+355,3,0.109203,Porter Family Park Path H,0,,Champaign,3,576.554002
+357,3,0.005913,Porter Family Park Path J,0,,Champaign,3,31.218496
+358,3,0.033164,Porter Family Park Path K,0,,Champaign,3,175.086525
+359,3,0.008162,Porter Family Park Path L,0,,Champaign,3,43.092114
+361,3,0.060342,Porter Family Park Path N,0,,Champaign,3,318.608052
+362,3,0.011388,Porter Family Park Path O,0,,Champaign,3,60.126675
+363,3,0.072813,Porter Family Park Path P,0,,Champaign,3,384.428352
+364,3,0.059127,Porter Family Park Path Q,0,,Champaign,3,312.155968
+365,3,0.049162,Porter Family Park Path R,0,,Champaign,3,256.943642
+366,3,0.00973,Porter Family Park Path S,0,,Champaign,3,51.364394
+367,3,0.038785,Porter Family Park Path T,0,,Champaign,3,204.768002
+368,3,0.019924,Porter Family Park Path Spur to Allison Drive,0,,Champaign,3,105.196988
+369,3,0.993651,Pipeline Trail,10,,Champaign,3,5246.362519
+370,1,0.239215,Kirby Avenue S SP,8,,Champaign,1,1263.05701
+371,3,0.075638,Barber Park Path ,0,,Mahomet,3,399.327408
+372,1,0.272287,Lake of the Woods Road Path,0,2013,Mahomet,1,1437.66888
+375,1,0.040917,Barber Park Path ,0,,Mahomet,1,216.0328
+376,1,0.634074,High Cross Road Sidepath,0,2012,Urbana,1,3347.888875
+377,3,0.425997,Japan House Path,0,2011,Urbana,3,2249.143979
+378,3,0.007444,Japan House Path Spur,0,2011,Urbana,3,39.298482
+379,3,0.420044,Johnston Park Path,8,,Champaign,3,2217.689032
+380,3,0.007857,Johnston Park Path Spur,0,,Champaign,3,41.458936
+381,3,0.236946,Dodds Park Path,0,,Champaign,3,1251.069283
+382,3,0.124965,O'Malley's Alley Trail Spur,0,,Champaign,3,659.814596
+383,3,0.278289,Marc Trail Path Loop South,0,2013,Urbana,3,1469.310478
+384,6,0.943521,Washington St Bike Lanes & Sharrows (Philo-Smith),0,2013,Urbana,6,4981.788849
+385,8,0.067136,Washington Street Sharrows (Smith-E of Dodson),0,2013,Urbana,8,354.479452
+387,6,0.473588,Kinch Street Bike Lanes,0,2013,Urbana,6,2500.54221
+388,8,0.04984,Florida Avenue Sharrows (at Kinch St),0,2013,Urbana,8,263.156271
+389,6,1.168851,Florida Avenue Bike Lanes (Rutledge-E of Vine),0,2013,Urbana,6,6171.52307
+390,8,0.069244,Florida Avenue Sharrows (at Vine St),0,2013,Urbana,8,365.606042
+391,6,0.183685,Florida Avenue Bike Lanes (W of Vine-E of Race),0,2013,Urbana,6,969.856462
+392,8,0.03652,Florida Avenue Sharrows (at Race St),0,2013,Urbana,8,192.824073
+393,6,0.216564,Fairview Avenue Bike Lanes,0,2013,Urbana,6,1143.459812
+394,8,0.029983,Fairview Avenue Sharrows,0,2013,Urbana,8,158.310212
+395,9,0.554918,Anderson Street Shared Bike/Parking Lanes,0,2013,Urbana,9,2929.956213
+396,9,0.254484,Pennsylvania Avenue Shared Bike/Parking Lanes,0,2013,Urbana,9,1343.676474
+397,8,0.25038,Race Street Sharrows (WA-MI),0,2013,Urbana,8,1322.008355
+398,8,0.375103,John Street Sharrows (Willis-Russell),0,,Champaign,8,1980.544427
+399,6,0.422806,John Street Bike Lanes (W of Mattis-Kenwood),0,,Champaign,6,2232.415141
+400,6,0.437639,John Street Bike Lanes (Russell-Western),0,,Champaign,6,2310.731531
+401,8,0.138615,John Street Sharrows (at Mattis Ave),0,,Champaign,8,731.87868
+402,6,0.253354,Gregory Drive Bike Lanes (First-W of Fourth),0,,Champaign,6,1337.709718
+403,8,0.045745,Gregory Drive Sharrows (at Fourth St),0,,Champaign,8,241.533176
+404,6,0.082927,Gregory Drive Bike Lanes (Sixth-E city limits),0,,Champaign,6,437.85366
+405,8,0.022635,Gregory Drive Sharrows (at Sixth St),0,,Champaign,8,119.511933
+406,1,0.029758,Florida Avenue S SP (W of Kinch-Rutledge),0,2013,Urbana,1,157.118586
+407,8,0.791001,Fourth Street Sharrows ,0,,Champaign,8,4176.455549
+408,1,0.784296,Fourth Street Sidepath,0,,Champaign,1,4141.051539
+409,1,0.089568,North Champaign Trail E,0,,Champaign,1,472.92091
+410,6,1.078493,Market Street Bike Lanes,0,,Champaign,6,5694.443293
+411,6,0.243848,Main Street Bike Lanes (Vine-Springfield),0,2013,Urbana,6,1287.519998
+412,6,0.615791,Main Street Bike Lanes (Grove-Lierman),0,2013,Urbana,6,3251.377569
+413,8,0.11532,Main Street Sharrows (at Lierman Ave),0,2013,Urbana,8,608.891145
+414,6,0.706755,Main Street Bike Lanes (Scottswood-Lierman),0,2013,Urbana,6,3731.665042
+415,8,0.050184,Main Street Sharrows (Scottswood-E of Scottswood),0,2013,Urbana,8,264.97226
+416,1,0.487389,First Street East Sidepath,0,,Champaign,1,2573.411091
+417,6,0.252678,State Street Bike Lanes (Hessel-N of Kirby),0,,Champaign,6,1334.13785
+418,8,0.079315,State Street Sharrows (at Kirby Ave),0,,Champaign,8,418.782486
+419,6,0.210495,State Street Bike Lanes (S of Kirby-Fox),0,,Champaign,6,1111.410988
+420,6,0.060251,Race Street Bike Lanes (Main-Elm),0,2013,Urbana,6,318.122899
+421,6,0.327543,Broadway Avenue Bike Lanes,0,2013,Urbana,6,1729.429128
+422,10,0.248772,Eads Street Bike Route,0,2013,Urbana,10,1313.514164
+423,10,0.358943,Grove Street Bike Route,0,2013,Urbana,10,1895.21804
+424,10,0.055558,Oregon Street Bike Route,0,2013,Urbana,10,293.346218
+425,10,0.644336,Anderson Street Bike Route (OR-FL),0,2013,Urbana,10,3402.092897
+426,10,0.458142,Anderson Street Bike Route (Mumford-S terminus),0,2013,Urbana,10,2418.98846
+427,10,0.171703,Illinois Street Bike Route (Lincoln-Coler),0,2013,Urbana,10,906.592089
+428,10,0.160427,Broad Alley Bike Route,0,2013,Urbana,10,847.050069
+429,10,0.708561,Coler Avenue Bike Route (Clark-WA),0,2013,Urbana,10,3741.20134
+430,10,0.480573,Scovill Street Bike Route,0,2013,Urbana,10,2537.407617
+431,10,0.248933,Pennsylvania Avenue Bike Route (Vine-Race),0,2013,Urbana,10,1314.368181
+432,10,0.252303,Broadway Avenue Bike Route (MI-FL),0,2013,Urbana,10,1332.162416
+433,10,0.249702,Beslin Street Bike Route,0,2013,Urbana,10,1318.429053
+434,10,0.263711,Fairview Avenue Bike Route,0,2013,Urbana,10,1392.394736
+1636,8,0.254186,Broadway Avenue Sharrows (IL-WA),0,2014,Urbana,8,1342.10052
+1637,8,0.143163,Washington Street Sharrows (Walnut-Race),0,2014,Urbana,8,755.899621
+1638,6,0.416961,Fourth Street Bike Lanes (Gregory-Kirby),0,2014,Champaign,6,2201.554276
+1639,6,0.088652,Sixth Street Bike Lanes (Armory-Gregory),0,2014,Champaign,6,468.084575
+1640,6,0.341409,Windsor Road Bike Lanes over I-57,0,2014,Champaign,6,1802.637619
+1642,3,0.532916,Kaufman Park Loop Trail,0,2014,Champaign,3,2813.775385
+1643,3,0.162551,Greenbelt Bikeway (Kaufman Park),0,,Champaign,3,858.271077
+1644,11,0.185978,Greenbelt Bikeway (Under I-72),0,,Champaign,11,981.961701
+1645,6,0.191492,Race Street Bike Lanes (Elm-S of IL),0,2014,Urbana,6,1011.078486
+1646,8,0.028259,Race Street Sharrows (S of IL-CA),0,2014,Urbana,8,149.206953
+1647,3,0.173708,Boneyard Creek Greenway (Broadway-Griggs),0,2014,Urbana,3,917.071884
+1648,3,0.189487,West Washington Street Basin Loop Path,0,2014,Champaign,3,1000.418287
+1649,3,0.032669,West Washington Street Basin Spur to Garfield Ave.,0,2014,Champaign,3,172.483233
+1652,1,0.020402,Curtis Road at Mattis Avenue NE corner,0,2008,Champaign,1,107.71844
+1653,1,0.017214,Curtis Road at Mattis Avenue NW corner,0,2008,Champaign,1,90.88623
+1654,1,0.019393,Curtis Road at Mattis Avenue SW corner,0,2008,Champaign,1,102.390421
+1655,1,0.017961,Curtis Road at Mattis Avenue SE corner,0,2008,Champaign,1,94.833621
+1656,3,0.829879,Dana Colbert Park Loop Trail,0,2006,Savoy ,3,4381.673279
+1657,3,0.829183,Dana Colbert Sr. Park Trail,0,2006,Savoy,3,4378.004704
+1658,3,0.152957,Garden Hills Park Path A,0,2011,Champaign,3,807.570292
+1659,3,0.080145,Sunset Ridge Park Path A,8,2012,Champaign,3,423.123705
+1660,3,0.233041,Sunset Ridge Park Path B,0,2012,Champaign,3,1230.400037
+1661,3,0.014068,Sunset Ridge Park Path C,0,2012,Champaign,3,74.272168
+1662,3,0.092137,Sunset Ridge Park Path D,0,2012,Champaign,3,486.454491
+1663,3,0.028796,Sunset Ridge Park Path E,0,2012,Champaign,3,152.032375
+1664,3,0.215367,Sunset Ridge Park Path F,0,2012,Champaign,3,1137.035885
+1665,3,0.016813,Sunset Ridge Park Path G,0,2012,Champaign,3,88.771881
+1666,3,0.00153,Sunset Ridge Park Path H,0,2012,Champaign,3,8.080636
+1667,3,0.012969,Sunset Ridge Park Path I,0,2012,Champaign,3,68.476277
+1668,3,0.001659,Sunset Ridge Park Path J,0,2012,Champaign,3,8.759473
+1669,3,0.142228,Sunset Ridge Park Path K,0,2012,Champaign,3,750.920869
+1670,3,0.011464,Sunset Ridge Park Path L,0,2012,Champaign,3,60.52877
+1671,3,0.010183,Sunset Ridge Park Path M,0,2012,Champaign,3,53.759287
+1672,3,0.021807,Sunset Ridge Park Path N,0,2012,Champaign,3,115.132424
+1673,3,0.297969,Kaufman Park Share the Road,0,2014,Champaign,,1573.257805
+1674,3,0.189105,Greenbelt Bikeway (Kaufman Park Extension) ,0,2014,Champaign,3,998.450613
+1675,1,0.239319,Main Street Sidepath,0,2013,Urbana,1,1263.584429
+1676,3,0.047585,Lanore-Adams-Fairlawn Path,0,2013,Urbana,3,251.213853
+1677,6,0.41711,Fox Drive Bike Lanes,0,2015,Champaign,6,2202.310507
+1678,3,0.173537,Larson Park Path,0,2015,Urbana,3,916.226944
+1679,3,0.053243,Larson Park Playground Path,0,2015,Urbana,3,281.10284
+1680,3,0.044066,AMBUCS Park Playground Path A,0,2014,Urbana,3,232.666644
+1681,3,0.003976,AMBUCS Park Playground Path B,0,2014,Urbana,3,20.991438
+1682,3,0.056038,AMBUCS Park Playground Path C,0,2014,Urbana,3,295.878378
+1683,3,0.020052,AMBUCS Park Playground Path D,0,2014,Urbana,3,105.877099
+1684,3,0.037586,AMBUCS Park Playground Path E,0,2014,Urbana,3,198.446066
+1685,3,0.022216,AMBUCS Park Playground Path F,0,2014,Urbana,3,117.301651
+1686,3,0.317257,Pipeline Diagonal Trail 2,0,2014,Champaign,3,1675.115134
+1688,3,0.151575,Powell Park Path,8,2014,Champaign,3,800.257968
+1689,3,0.038023,Thompson Park Path,0,2014,Champaign,3,200.763399
+1690,3,0.141775,Toalson Park Path B,8,,Champaign,3,748.567396
+1691,3,0.025937,Toalson Park Path C,0,,Champaign,3,136.949384
+1692,3,0.109724,Toalson Park Path D,0,,Champaign,3,579.326627
+1693,3,0.01934,Toalson Park Path E,0,,Champaign,3,102.107332
+1697,3,0.015529,Porter Family Park Path U,0,,Champaign,3,81.991376
+1700,3,0.035304,Porter Family Park Path E,0,,Champaign,3,186.386766
+1702,3,0.383575,Porter Family Park Path B,0,,Champaign,3,2025.186859
+1705,3,0.161889,Porter Family Park Path I,0,,Champaign,3,854.734477
+1708,3,0.18514,Porter Family Park Path M,0,,Champaign,3,977.489291
+2087,8,0.063249,Washington Street Sharrows (Vine-Walnut),0,2015,Urbana,8,333.95429
+2088,8,0.086188,Race Street Sharrows (MI-PA),0,2015,Urbana,8,455.074798
+2488,6,0.047159,Broadway Avenue Bike Lanes (High-IL),0,2015,Urbana,6,249.000502
+2888,6,0.253541,Oak Street Bike Lanes (Hazelwood-Gerty),0,2013,Champaign,6,1338.692349
+2889,8,0.075013,Fox Drive Sharrows (Neil-State),0,2015,Champaign,8,396.066518
+2890,8,0.051439,Fox Drive Sharrows (N of Devonshire),0,2015,Champaign,8,271.591219
+2892,6,0.565782,Devonshire Drive Bike Lanes,0,2015,Champaign,6,2987.322913
+3289,1,0.414151,Broadway Avenue Sidepath,0,2015,Urbana,3,2186.647997
+3295,1,0.398569,Lake of the Woods Road Path,0,2014,Mahomet,1,2104.432708
+3296,3,0.275632,Lake of the Woods Road Path,0,2013,Mahomet,1,1455.277236
+3297,3,0.065868,Lake of the Woods Road Path Spur,0,2013,Mahomet,1,347.771172
+3689,1,0.145585,IL 47 Path (over Sangamon River),0,2011,Mahomet,3,768.686757
+3690,1,0.254324,IL 47 Path South,0,2004,Mahomet,1,1342.830887
+3691,3,0.023289,Douglass Park Path Southwest,0,2015,Champaign,3,122.965128
+3692,3,0.0836,Douglass Park Path Southeast,0,2015,Champaign,3,441.397715
+3693,3,0.473437,Douglass Park Fitness Trail,0,2015,Champaign,3,2504.477901
+3696,3,0.040256,Douglass Park Sprayground Path,0,2015,Champaign,3,212.498166
+3698,3,0.030041,Douglass Park Library Path,0,2015,Champaign,3,158.614897
+4089,6,0.24329,Washington Street Bike Lanes (Pfeffer-IL 130),0,2015,Urbana,6,1284.572543
+4090,3,0.106954,Garden Hills Park Path B,0,2015,Champaign,3,564.6757
+4091,3,0.103987,Garden Hills Park Path C,0,2015,Champaign,3,549.007381
+4491,1,0.19412,Cunningham Avenue E SP,0,2016,Urbana,1,1024.954577
+4891,6,0.247462,Fourth Street Bike Lanes (Kirby-St. Mary's),0,2016,Champaign,6,1306.599489
+4892,6,0.417991,First Street Bike Lanes (Gregory-Kirby) ,0,2016,Champaign,6,2206.993358

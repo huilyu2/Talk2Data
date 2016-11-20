@@ -1,0 +1,39 @@
+﻿"Name" -> "City_of_Champaign_Most_Common_Violation_Tickets_1999-2011"
+"ResourceType" -> "DataResource"
+"Title" -> "Champaign Common Violation Tickets"
+"Description" -> "A table of amounts of most common violation tickets group by violation type in Champaign IL from 1999 to 2011"
+"Publisher" -> "State of Illinois Open Data"
+"Source" -> "https://data.illinois.gov/Municipality/City-of-Champaign-Most-Common-Violation-Tickets-19/nnhd-ku5t"
+"Date" -> "1999-2011"
+"Keywords" -> "Text, Violation, Champaign"
+"Categories" -> "Crime and Public Safety"
+"ContentLocation" -> "Champaign, Illinois"
+Violation Type,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001,2000,1999
+Sale of Tobacco to a Minor,16,21,9,1,5,,,,,,,,
+Minor Present in Liquor Establishment,10,3,10,2,,28,26,12,10,19,,,
+Unlawful Use of ID,16,23,8,15,23,37,38,29,33,68,25,60,14
+Possession of Tobacco Products by Minor,,,22,10,23,21,,,,,,,
+Throwing Dangerous Materials,35,54,13,8,22,7,22,21,,,,,
+Underage Alcohol Offenses,1157,1149,1175,1018,1509,1416,1977,1419,914,1129,1271,1690,1069
+Theft,209,215,206,190,160,110,172,200,177,225,253,221,189
+Possession of Cannabis,232,212,219,279,193,161,164,164,148,168,149,239,194
+Alcohol Possession on Public Property,376,352,312,360,258,207,206,239,163,173,185,237,213
+Noise,167,195,272,218,238,167,125,112,93,111,118,201,109
+Resisting and Obstruction of Justice,102,112,111,140,123,119,108,96,67,94,91,69,24
+Public Urination,72,55,69,41,109,178,112,108,50,67,75,74,50
+Transient Merchant License,,,,16,9,6,3,,,,,,
+Kegs Without a License,,,26,24,27,24,43,40,15,18,,,
+Dangerous or Vicious Animals,,,14,17,13,11,19,10,11,10,,,
+Littering/Disposal on Public Ways,24,28,49,28,21,21,13,14,18,28,,,
+Possession of Drug Paraphernalia,121,86,63,49,54,44,59,46,50,77,67,56,
+Curfew,,,,,,,,6,126,172,135,217,213
+Disorderly Conduct,40,45,56,63,60,54,48,64,90,135,105,103,69
+Fighting,41,70,68,45,93,72,65,55,40,83,92,101,64
+Adult Responsibility/Delivery to Minors,68,57,78,75,66,65,132,61,44,81,101,112,37
+Battery,51,41,55,48,56,50,46,40,77,70,85,86,50
+Trespass/Breaking and Entering,51,58,56,58,37,50,36,51,59,60,59,41,34
+Dogs Running at Large,57,77,52,95,77,67,59,56,62,60,56,37,23
+Damaging Property,41,56,34,43,56,55,56,44,53,56,75,37,23
+Rabies Vaccination Required,32,30,25,66,52,32,35,41,42,47,66,39,18
+Cruelty to Animals,,22,7,17,21,8,7,21,16,29,62,33,15
+Total Number of Tickets Issued,2995,3067,3110,2906,3386,3111,3671,3044,2447,3090,3297,3902,2505
