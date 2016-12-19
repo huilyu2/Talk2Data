@@ -12,21 +12,21 @@ Powered by Google APIs, Wolfram|Alpha, and the Wolfram Language with numerous fu
 We have preloaded our program with dozens of semantically structured datasets about Champaign-Urbana in order to encourage everyone to explore and gain more insight into issues that are relevant to our community. Crowdsourcing data analysis in this manner will raise awareness and lead to rapid innovations. New datasets can be freely added  to our repository.
 
 ## Features
-Makes everybody a data scientist: If you know how to talk or write, then you’re now a programmer and a data scientist! Freely available online for everyone.
+1. Makes everybody a data scientist: If you know how to talk or write, then you’re now a programmer and a data scientist! Freely available online for everyone.
 
-Teaches programming to kids and adults: Code can be created with intuitive natural language input independent of any programming languages or paradigms. This encourages computational thinking rather than learning arbitrary syntax rules.
+2. Teaches programming to kids and adults: Code can be created with intuitive natural language input independent of any programming languages or paradigms. This encourages computational thinking rather than learning arbitrary syntax rules.
 
-Enhances accessibility: Helps people with physical disabilities develop code and analyze data more easily. Audio based input and output, 103 supported languages.
+3. Enhances accessibility: Helps people with physical disabilities develop code and analyze data more easily. Audio based input and output, 103 supported languages.
 
-Preloaded with Champaign-Urbana community data: Contains dozens of datasets related to Champaign and Urbana hosted on our web server. Anyone can start exploring and analyzing this data immediately.
+4. Preloaded with Champaign-Urbana community data: Contains dozens of datasets related to Champaign and Urbana hosted on our web server. Anyone can start exploring and analyzing this data immediately.
 
-Smart import of any data format: Our smart import, powered by the Wolfram Language, can automatically upload most types of datasets while recognizing their formatting and headers, using machine learning. This also preserves physical units within the datasets and automatically converts and combines units during later operations. 
+5. Smart import of any data format: Our smart import, powered by the Wolfram Language, can automatically upload most types of datasets while recognizing their formatting and headers, using machine learning. This also preserves physical units within the datasets and automatically converts and combines units during later operations. 
 
-Error correcting natural language processing: You can type as sloppily as you want, and our text recognition and spell checking algorithms will correct your spelling for you and figure out what you intended to do.
+6. Error correcting natural language processing: You can type as sloppily as you want, and our text recognition and spell checking algorithms will correct your spelling for you and figure out what you intended to do.
 
-More functionality added everyday: Thousands of different operations already recognized. We are working hard on adding more and more everyday.
+7. More functionality added everyday: Thousands of different operations already recognized. We are working hard on adding more and more everyday.
 
-High performance cloud computing: Analyze huge data sets and perform computationally intensive calculations through a browser on any device including Chromebooks, Raspberry Pis or smartphones (also works on the Wolfram Cloud app).
+8. High performance cloud computing: Analyze huge data sets and perform computationally intensive calculations through a browser on any device including Chromebooks, Raspberry Pis or smartphones (also works on the Wolfram Cloud app).
 
 ## Specifications
 The voice input is recognized with one of the most accurate voice recognition system that exists today: the Google Cloud Speech-to-Text engine, which is powered by deep neural networks and is constantly improving every minute. Next, the Google Translate API is used to convert the input string (supported for over 103 languages) into English.
