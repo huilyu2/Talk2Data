@@ -34,11 +34,11 @@ The voice input is recognized with one of the most accurate voice recognition sy
 Then our custom text-to-code parser converts the input sentences into Wolfram Language code. This code is executed partly on our servers and partly on the Wolfram Cloud. Unrecognized requests are outsourced to Wolfram|Alpha. Finally the results are displayed on the website.
 
 ## Next steps
-1. Develop mobile apps for Android/iOS and chatbots
+* Develop mobile apps for Android/iOS and chatbots
 
 Data science on the go, without having to type on tiny keyboards. All computations and data sets will be hosted for free on the cloud. We also plan to integrate handwriting recognition into the app. A prototype version with limited functionality is already available on the Wolfram Cloud app for iOS and Android.
 
-2. Enable general-purpose programming (TALK2CODE)
+* Enable general-purpose programming (TALK2CODE)
 
 The framework we built can be extended to allow general-purpose programming in any programming language as well as symbolic/numerical mathematical computation, using your voice. We are working on using machine learning techniques to automatically teach our system how to learn new commands.
 
